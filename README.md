@@ -1,10 +1,9 @@
 # responsive-website_template
-um template de um website totalmente responsivo. feito como objeto de estudo para responsividade.
+A fully responsive website template designed as a study object for responsiveness.
 
-o site possui 3 sessões (header, main, footer), todas responsivas, com suporte para telas de até 320px. 
+The site consists of 3 sections (header, main, footer), all responsive and supporting screens down to 320px.
 
-## javascript para funcionalidades ainda por vir 😢
-
+JavaScript for upcoming features still pending 😢
 ## desktop 
 
 ![template_responsive-desktop ](https://github.com/JoaoVGhallama/responsive-website_template/assets/145937254/e0ab44e0-d49e-4d92-bc6a-bd0ab94da389)
